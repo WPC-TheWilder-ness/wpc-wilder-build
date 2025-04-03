@@ -1,7 +1,7 @@
 ---
 title: LUWXAA DIRECTORY.
 draft: false
-avatar: images/peacebangicon.png
+avatar: images/danceraurora.gif
 bio: ...the build itinerary of Wilder and Aurora.
 
 weight: 1
